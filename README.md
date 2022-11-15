@@ -24,7 +24,7 @@
 <br><br>
 
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h4>🛠 Tools 🛠</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -33,7 +33,7 @@
 <br><br>
 
 <div align=center>
-	<p>🎀 Contact 🎀</p>
+	<h4>🎀 Contact 🎀</h4>
 </div>
 <div align=center>
 	<a href="mailto:esthel9026@naver.com">
