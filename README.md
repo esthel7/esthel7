@@ -44,11 +44,12 @@
 	</a>
 	<br>
 </div>
-<br><br>
+<br><br><br>
 
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthel7&layout=compact">
 </div>
+<br>
  
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
