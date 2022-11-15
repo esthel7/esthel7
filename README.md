@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Esthel%20Github!&fontSize=90" />	 <!--헤더부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Esthel%20Github!&fontSize=70" />	 <!--헤더부분-->
 </div>
 
 <div align=center>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </div>
-<br>
+<br><br>
 
 <div align=center>
 	<p>🛠 Tools 🛠</p>
@@ -29,7 +29,7 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
+<br><br>
 
 <div align=center>
 	<p>🎨 SNS 🎨</p>
@@ -44,7 +44,7 @@
 	<br>
 </div>
 
-<div alugb=center>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthel7&layout=compact">
 </div>
  
