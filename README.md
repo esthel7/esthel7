@@ -5,7 +5,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<h6>✨ Studies ✨</h6>
+	<h5>✨ Studies ✨</h5>
 </div>
 <div align="center">
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
