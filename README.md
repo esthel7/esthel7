@@ -1,9 +1,10 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Esthel%20Github!&fontSize=70" />	 <!--헤더부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Esthel%20Github!&fontSize=50" />	 <!--헤더부분-->
 </div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -43,6 +44,7 @@
 	</a>
 	<br>
 </div>
+<br><br>
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthel7&layout=compact">
