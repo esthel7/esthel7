@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	 <!--헤더부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Esthel%20Github!&fontSize=90" />	 <!--헤더부분-->
 </div>
 
 <div align=center>
@@ -36,10 +36,10 @@
 </div>
 <div align=center>
 	<a href="mailto:esthel9026@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/NMail-30B980?style=flat&logo=Minutemailer&logoColor=white" />
 	</a>
 	<a href="mailto:s74739026@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-FF3633?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/GMail-FF3633?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
 </div>
