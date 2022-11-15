@@ -33,7 +33,7 @@
 <br><br>
 
 <div align=center>
-	<p>🔮 SNS 🔮</p>
+	<p>🎀 SNS 🎀</p>
 </div>
 <div align=center>
 	<a href="mailto:esthel9026@naver.com">
