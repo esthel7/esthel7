@@ -1,13 +1,12 @@
 <div align=center>	
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Esthel%20Github!&animation=fadeIn&fontSize=50" />	 <!--헤더부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=200&section=header&text=Esthel%20Github!&animation=fadeIn&fontSize=50" />	 <!--헤더부분-->
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<br>
-	<h4>✨ Studies ✨</h4>
+	<h3>✨ Studies ✨</h3>
 </div>
-<div align="center">
+
+<div align=center>
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -25,8 +24,9 @@
 <br><br>
 
 <div align=center>
-	<h4>🛠 Tools 🛠</h4>
+	<h3>🛠 Tools 🛠</h3>
 </div>
+
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -34,8 +34,9 @@
 <br><br>
 
 <div align=center>
-	<h4>🎀 Contact 🎀</h4>
+	<h3>🎀 Contact 🎀</h3>
 </div>
+
 <div align=center>
 	<a href="mailto:esthel9026@naver.com">
 		<img src="https://img.shields.io/badge/NMail-30B980?style=flat&logo=Minutemailer&logoColor=white" />
@@ -53,7 +54,7 @@
 <br>
  
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:bfe9ff,100:ff6e7f&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
 </div>
 
 
