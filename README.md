@@ -1,5 +1,5 @@
 <div align=center>	
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=200&section=header&text=Esthel%20Github!&animation=fadeIn&fontSize=50" />	 <!--헤더부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=100:b993d6,0:ff6e7f&height=200&section=header&text=Esthel%20Github&animation=fadeIn&fontSize=50&fontColor=ffffff" />	 <!--헤더부분-->
 </div>
 
 <div align=center>
@@ -54,7 +54,7 @@
 <br>
  
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:bfe9ff,100:ff6e7f&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
+	<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:b993d6,100:ff6e7f&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
 </div>
 
 
