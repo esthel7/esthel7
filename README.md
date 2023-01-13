@@ -48,10 +48,10 @@
 </div>
 <br><br><br>
 
-<div align=center>
+<!-- <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthel7&layout=compact">
 </div>
-<br>
+<br> -->
  
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:b993d6,100:ff6e7f&height=200&section=footer&fontSize=50" />	 <!--아래부분-->
